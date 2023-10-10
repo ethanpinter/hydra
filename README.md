@@ -1,2 +1,2 @@
-# hydra
-Penn State Evil League of Evil: Fall 2023 Challenge
+# Hydra
+## Penn State Evil League of Evil: Fall 2023 Challenge
