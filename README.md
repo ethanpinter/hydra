@@ -12,4 +12,4 @@ Here you'll find the materials for each of the three challenges:
 - [Carrot](https://github.com/ethanpinter/hydra/tree/main/Challenge%20C%20-%20Carrot), by [@sheriffCy](https://github.com/sheriffCy)
 
 
-To defeat each head of the hydra, you must find a flag in the format "flag{NOT_THAT_EASY}". Submit the flags [here](placeholder.example.com) for entry to the League.
+To defeat each of Hydra's heads, you must find a flag in the format "flag{NOT_THAT_EASY}". Submit the flags [here](placeholder.example.com) for entry to the League.
