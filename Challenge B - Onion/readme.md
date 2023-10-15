@@ -1,5 +1,5 @@
 <div id="top" align="center">
-<img src="https://github.com/ethanpinter/hydra/blob/main/Onion/src/onion.png" alt="logo" width="200px"/>
+<img src="https://github.com/ethanpinter/hydra/blob/main/Challenge%20B%20-%20Onion/src/onion.png" alt="logo" width="200px"/>
 </div>
 
 # Onion
