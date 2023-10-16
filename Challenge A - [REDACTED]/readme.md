@@ -5,3 +5,4 @@
 # [Redacted]
 
 [REDACTED] is a [REDACTED]-type information security puzzle developed by [@ethanpinter](https://github.com/ethanpinter) as part of [Hydra](https://github.com/ethanpinter/hydra).
+All the information you need to slay this head is contained in this challenge's folder.
