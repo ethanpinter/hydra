@@ -4,4 +4,4 @@
 
 # [Redacted]
 
-Challenge description, information, and instructions goes here.
+[REDACTED] is a [REDACTED]-type information security puzzle developed by [@ethanpinter](https://github.com/ethanpinter) as part of [Hydra](https://github.com/ethanpinter/hydra).
