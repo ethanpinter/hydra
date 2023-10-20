@@ -4,7 +4,11 @@
 
 # Carrot
 
-Welcome to the Carrot part of the Hydra challenge! The password for each zip file is also a flag, as seen in the zip files. Good Luck!
+Welcome to the Carrot part of the Hydra challenge! 
+The challenges are meant to be done sequentially, hence the password for each zip file.
+The last zip file will contain the challenge with the last flag.
 
-It seems like the password to the first zip file is encoded somehow..? See if you can figure it out:
+Good Luck!
+
+It seems like the password to the first challenge file is encoded somehow..? See if you can figure it out:
 -- .-. ...- . ....- -.... .-.. ..-. -.- -.-- ....- -..- ..- - -.- -..- --. ..-. ...-- .-- . .-. -.-. --- -- --.. -- .-- ..- ..- .--- .-. .-.. .--- .-.. -.. --.- -- -.- .--. .. .-. --. -..- ... - ..--- ..- .. ..- -.... --.- -...- -...- -...- -...-
