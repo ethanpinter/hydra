@@ -8,6 +8,8 @@ Welcome to the Carrot part of the Hydra challenge!
 The challenges are meant to be done sequentially, hence the password for each zip file.
 The last zip file will contain the challenge with the last flag.
 
+***IMPORTANT*** As of 10/24 the 2nd challenge's encrypted text has been changed. I've changed it so that gcc is updated to the latest version, so now using the latest version of gcc should work.
+
 Good Luck!
 
 It seems like the password to the first challenge file is encoded somehow..? See if you can figure it out:
